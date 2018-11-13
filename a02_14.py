@@ -1,4 +1,4 @@
-e = 0.577215664901
+from numpy import e
 
 f = lambda x,y : 4*x + 5*y - 9
 
